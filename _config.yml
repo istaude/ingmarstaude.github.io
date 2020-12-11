@@ -14,7 +14,7 @@ author: Ingmar Staude
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I am a PhD student working at iDiv the German Centre for Integrtive Biodiversity Research"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
