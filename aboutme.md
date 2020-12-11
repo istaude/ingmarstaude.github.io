@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ingmar Staude. I love science, and get along with academia. In brief, I am currently working as a PhD student at iDiv, the German Center for Integrative Biodiversity Research. Here I focus 
+Before that I did an international MSc in Applied Ecology, studying in France, Portugal, Ecuador and Brazil. In Brazil I did research on human impacts on biodiversity in the Campos Sulinos, Brazil's southern grasslands. Just before I started my Masters, I lived in the Arctic, on the archipelago of Svalbard, to do research and learn about in Arctic terrestrial and marine ecology at UNIS, the University Centre of Svalbard. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+### 
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
