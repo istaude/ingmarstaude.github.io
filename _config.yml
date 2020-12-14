@@ -15,10 +15,9 @@ author: Ingmar Staude
 
 navbar-links:
   About Me: "https://istaude.github.io/aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  CV: "https://beautifuljekyll.com"
+  Publications: "https://www.markdowntutorial.com/"
+  Research: "https://deanattali.com"
 
 # --- Logo --- #
 
