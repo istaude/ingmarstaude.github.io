@@ -16,4 +16,4 @@ title: Peer Reviewed Publications
 
 ## 2018
 
-<ins>Staude, I.R.</ins>, Vélez-Martin, E., Andrade, B.O., Podgaiski, L.R., Boldrini, I.I., Mendonça Jr, M., Pillar, V.D., Overbeck, G.E., 2018. Local biodiversity erosion in south Brazilian grasslands under moderate levels of landscape habitat loss. Journal of Applied Ecolgy 55, 1241–1251. [link](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2664.13067)
+<ins>Staude, I.R.</ins>, Vélez-Martin, E., Andrade, B.O., Podgaiski, L.R., Boldrini, I.I., Mendonça Jr, M., Pillar, V.D., Overbeck, G.E., 2018. Local biodiversity erosion in south Brazilian grasslands under moderate levels of landscape habitat loss. *Journal of Applied Ecology* 55, 1241–1251. [link](https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/1365-2664.13067)
