@@ -3,4 +3,4 @@ layout: page
 title: CV
 ---
 
-Download CV
+[Download CV](/assets/pdf/curriculum_vitae.pdf)
