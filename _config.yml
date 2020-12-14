@@ -16,8 +16,8 @@ author: Ingmar Staude
 navbar-links:
   About Me: "https://istaude.github.io/aboutme"
   CV: "/assets/curriculum_vitae.pdf"
-  Publications: "https://www.markdowntutorial.com/"
-  Research: "https://deanattali.com"
+  Publications: "https://istaude.github.io/publications"
+  Code: "https://istaude.github.io/code"
 
 # --- Logo --- #
 
