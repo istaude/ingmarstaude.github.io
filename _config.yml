@@ -15,7 +15,7 @@ author: Ingmar Staude
 
 navbar-links:
   About Me: "https://istaude.github.io/aboutme"
-  CV: "https://istaude.github.io/cv"
+  CV: "/assets/curriculum_vitae.pdf"
   Publications: "https://www.markdowntutorial.com/"
   Research: "https://deanattali.com"
 
@@ -97,7 +97,7 @@ feed_show_tags: true
 navbar-col: "#314F96"
 navbar-text-col: "#4F4DBD1"
 navbar-border-col: "#374F7B"
-#page-col: "#FFFFFF"
+page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
@@ -110,7 +110,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-page-img: "/assets/img/IMG_2307.jpg"
+#page-img: "/assets/img/IMG_2307.jpg"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
 #mobile-theme-col: "#0085A1"
