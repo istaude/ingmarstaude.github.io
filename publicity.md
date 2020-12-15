@@ -9,7 +9,7 @@ title: Publicity
 
 [Stickstoff: Mangelware im Überfluss](https://www.quarks.de/podcast/storyquarks-folge-doppelfolge-das-stickstoffproblem/)
 
-Die Erde hat ein Riesen-Problem: Die Menschheit überdüngt sie seit Jahrzehnten mit Stickstoff. Wir können das ändern. So schützen wir nicht nur die Biodiversität, das Klima und unsere Gesundheit, sondern verringern im besten Fall auch den Welthunger.
+Die Erde hat ein Riesen-Problem: Die Menschheit überdüngt sie seit Jahrzehnten mit Stickstoff. Wir können das ändern. 
 
 ### Spektrum
 [Stickstoff macht Europas Wälder arm](https://www.spektrum.de/news/stickstoff-macht-europas-waelder-arm/1722154)
