@@ -1,0 +1,18 @@
+---
+layout: post
+title: Plant diversity in European forests is declining 
+subtitle: sDiv and forestREplot collaborative project
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+comments: true
+---
+
+Biodiversity time series reveal global losses and accelerated redistributions of species, but no net loss in local species richness. 
+To better understand how these patterns are linked, we quantify how individual species trajectories scale up to diversity changes using data 
+from 68 vegetation resurvey studies of seminatural forests in Europe. Herb-layer species with small geographic ranges are being replaced by more 
+widely distributed species, and our results suggest that this is due less to species abundances than to species nitrogen niches. Nitrogen deposition 
+accelerates the extinctions of small-ranged, nitrogen-efficient plants and colonization by broadly distributed, nitrogen-demanding plants (including non-natives). 
+Despite no net change in species richness at the spatial scale of a study site, the losses of small-ranged species reduce biome-scale (gamma) diversity. 
+These results provide one mechanism to explain the directional replacement of small-ranged species within sites and thus explain patterns of biodiversity change
+across spatial scales.
