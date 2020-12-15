@@ -3,5 +3,9 @@ layout: page
 title: Publicity
 ---
 
+## Selected research features
+### Spektrum
+[Stickstoff macht Europas Wälder arm](https://www.spektrum.de/news/stickstoff-macht-europas-waelder-arm/1722154)
 
-[Spektrum 14.04.2020](https://www.spektrum.de/news/stickstoff-macht-europas-waelder-arm/1722154)
+### Deutschlandfunk Nova
+
