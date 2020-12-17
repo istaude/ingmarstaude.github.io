@@ -27,6 +27,6 @@ I learned that a central component of our current biodiversity crisis is due to 
 
 In my free time, I play the piano, paint huge canvases and am currently building a boat.
 
-<center><img src="boot.JPG"></center>
+<center><img src=boot.JPG></center>
 
 
