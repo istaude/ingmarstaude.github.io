@@ -20,7 +20,7 @@ At the [Galapagos Science Centre](https://galapagosscience.org/), I experienced 
 
 In the Páramos, the highland grasslands of the Andes, that play a key role in the water supply for the lowland populations, I saw how widespread changes in land use towards intensive livestock grazing, fostered the compaction of the soil and altered the water storage capacity, leading to soil erosion and runoff in turn threatening the water provisioning services of this ecosystem.
 
-In Brazil, I did fieldwork in the Pampas region, a previously contiguous grassy ecosystem that extended into Uruguay and Argentina. I experienced how the rapid conversion of natural grasslands to agriculture, faulty management of grasslands in protected areas and a general lack of protection make these highly biodiverse grasslands the biome with highest conservation risk in Brazil. 
+In Brazil, I did fieldwork in the Pampas region, a once contiguous grassy ecosystem that extended into Uruguay and Argentina. I witnessed how rapid conversion of native grasslands to cropland, faulty management in protected areas and a general lack of protection make these highly biodiverse grasslands the biome with the highest conservation risk in Brazil. 
 
 I learned that a central component of our current biodiversity crisis is due to poorly informed decision-making, and that science can play a key role in providing actionable knowledge to address the drivers of biodiversity loss. These experiences led me to work at the German Center for Integrative Biodiversity Research that emphasizes interdisciplinary research and works at the science-policy interface.
 
