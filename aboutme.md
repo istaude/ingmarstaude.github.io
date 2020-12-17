@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-cover-img: [/assets/img/IMG_8364.jpg : Yasuni National Park (2016)]
+cover-img: /assets/img/IMG_8364.jpg
 ---
 
 I am currently a doctoral researcher at the German Centre of Integrative Biodiversity Research (iDiv), in Leipzig. I collaborate with several consortia, such as [forestREplot](https://forestreplot.ugent.be/) and [GLORIA](https://www.gloria.ac.at/home), and iDiv’s synthesis centre, [sDiv](https://www.idiv.de/de/sdiv.html), to synthesize and analyze vegetation resurveys. I use these data to shed light on the nature of and the mechanism behind biodiversity change in plant communities across a range of habitats.
