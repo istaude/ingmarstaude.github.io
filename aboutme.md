@@ -7,7 +7,7 @@ I am currently a doctoral researcher at the German Centre of Integrative Biodive
 
 The findings from this work are now leading me to address practical solutions and how to most sustainably and holistically mitigate the direct and indirect impacts of anthropogenic global change. In future projects, I hope to build a knowledge base for the impacts of trophic rewilding on ecosystems.
 
-I received my B.S. *magna cum laude* (2015) in Biology from Freie Universität Berlin and my M.S. *magna cum laude* (2017) in Applied Ecology as an Erasmus Mundus fellow from an [international consortium of universities](https://www.imae.online/) (Université de Poitiers, France; Universidade de Coimbra, Portugal; Universidade Federal do Rio Grande do Sul, Brazil). 
+I received my B.S. *magna cum laude* (2015) in Biology from Freie Universität Berlin and my M.S. *magna cum laude* (2017) in Applied Ecology as an Erasmus Mundus fellow from an [international consortium of universities](https://www.imae.online/organisation-of-the-masters) (Université de Poitiers, France; Universidade de Coimbra, Portugal; Universidade Federal do Rio Grande do Sul, Brazil). 
 
 ### Some more background
 After my bachelor thesis in applied plant genetics on cytokinin signaling, I left Germany in 2014 for Spitsbergen in the High Arctic, to pursue my interest in Ecology. During a research semester with an Otto-Bayer scholarship at the [University Centre of Svalbard (UNIS)](https://www.unis.no/), the northernmost research facility in the world, I gained hands-on experience and comprehensive background in ecological theory about Arctic terrestrial and marine ecosystems.
