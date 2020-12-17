@@ -18,7 +18,7 @@ At the [Tiputini Biodiversity Station](https://www.tiputini.com/) in Yasuni Nati
 
 At the [Galapagos Science Centre](https://galapagosscience.org/), I experienced how a Western worldview of the Galapagos as a natural laboratory clashed with the views of the locals, who are not allowed to enter 97% of the island's surface that is under strict protection. I learned that for any conservation project to work, people must be seen as the key to success, not the obstacle.
 
-In the Páramos, the highland grasslands of the Andes, that play a key role in the water supply for the lowland populations, I saw how widespread changes in land use towards intensive livestock grazing, fostered the compaction of the soil and altered the water storage capacity, leading to soil erosion and runoff in turn threatening the water provisioning services of this ecosystem.
+In the Páramos, the highland grasslands of the Andes, that play a key role in the water supply for the lowland populations, I studied how widespread changes in land use towards intensive livestock grazing, fostered the compaction of the soil and altered the water storage capacity, leading to soil erosion and runoff in turn threatening the water provisioning services of this ecosystem.
 
 In Brazil, I did fieldwork in the Pampas region, a once contiguous grassy ecosystem that extended into Uruguay and Argentina. I witnessed how rapid conversion of native grasslands to cropland, faulty management in protected areas and a general lack of protection make these highly biodiverse grasslands the biome with the highest conservation risk in Brazil. 
 
