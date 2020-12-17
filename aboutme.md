@@ -12,7 +12,8 @@ I received my B.S. *magna cum laude* (2015) in Biology from Freie Universität B
 ### Some more background
 After my bachelor thesis in applied plant genetics on cytokinin signaling, I left Germany in 2014 for Spitsbergen in the High Arctic, to pursue my interest in Ecology. During a research semester with an Otto-Bayer scholarship at the [University Centre of Svalbard (UNIS)](https://www.unis.no/), the northernmost research facility in the world, I gained hands-on experience and comprehensive background in ecological theory about Arctic terrestrial and marine ecosystems.
 
-Fascinated by the rapid ecological changes in these environments due to the effects of climate change, I began an international master's degree in applied ecology that took me from the Arctic to the temperate and Mediterranean ecosystems of Europe to the tropical and subtropical ecosystems of South America.
+Fascinated by the rapid ecological changes in these environments due to the effects of climate change, I began an international master's degree in Applied Ecology that took me from the Arctic to the temperate and Mediterranean ecosystems of Europe to the tropical and subtropical ecosystems of South America.
+
 At the [Tiputini Biodiversity Station](https://www.tiputini.com/) in Yasuni National Park in the Amazon, I witnessed how initial disturbances to wild nature, such as road construction and oil industry activities, can not only act as a catalyst for illegal logging, hunting, and fishing, but also led indigenous tribes like the Huaroani to gradually abandon their own cultural practices.
 
 At the [Galapagos Science Centre](https://galapagosscience.org/), I experienced how a Western worldview of the Galapagos as a natural laboratory clashed with the views of the locals, who are not allowed to enter 97% of the island's surface that is under strict protection. I learned that for any conservation project to work, people must be seen as the key to success, not the obstacle.
