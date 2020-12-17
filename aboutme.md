@@ -6,7 +6,7 @@ cover-img: /assets/img/IMG_8364.jpg
 
 I am currently a doctoral researcher at the German Centre of Integrative Biodiversity Research (iDiv), in Leipzig. I collaborate with several consortia, such as [forestREplot](https://forestreplot.ugent.be/) and [GLORIA](https://www.gloria.ac.at/home), and iDiv’s synthesis centre, [sDiv](https://www.idiv.de/de/sdiv.html), to synthesize and analyze vegetation resurveys. I use these data to shed light on the nature of and the mechanism behind biodiversity change in plant communities across a range of habitats.
 
-The findings from this work are now leading me to address practical solutions and how to most sustainably and holistically mitigate the direct and indirect impacts of anthropogenic global change. In future projects, I hope to build a knowledge base for the impacts of trophic rewilding on ecosystems.
+The findings from this work are now leading me to address practical solutions and how to most sustainably and holistically mitigate the direct and indirect impacts of anthropogenic global change. In future projects, my goal is to build a knowledge base for the impacts of trophic rewilding on ecosystems.
 
 I received my B.S. *magna cum laude* (2015) in Biology from Freie Universität Berlin and my M.S. *magna cum laude* (2017) in Applied Ecology as an Erasmus Mundus fellow from an [international consortium of universities](https://www.imae.online/organisation-of-the-masters) (Université de Poitiers, France; Universidade de Coimbra, Portugal; Universidade Federal do Rio Grande do Sul, Brazil). 
 
