@@ -4,9 +4,6 @@ title: Peer Reviewed Publications
 ---
 
 
-## 2021
-<ins>Staude, I.R.</ins>, ...
-
 ## 2020
 
 <ins>Staude I.R.</ins>, Overbeck G.E., Fontana C.S., Bencke G.A., Silva T.W., Mimet A. and Pereira H.M. (2020) Specialist birds replace generalists in grassland remnants as land-use change intensifies. *Frontiers in Ecolgy and Evolution* 8:597542. [link](doi: 10.3389/fevo.2020.597542)
