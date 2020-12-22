@@ -23,7 +23,7 @@ In the Páramos, the highland grasslands of the Andes, that play a key role in t
 
 In Brazil, I did fieldwork in the Pampas region, a once contiguous grassy ecosystem that extended into Uruguay and Argentina. I witnessed how rapid conversion of native grasslands to cropland, faulty management in protected areas and a general lack of protection make these highly biodiverse grasslands the biome with the highest conservation risk in Brazil. 
 
-I learned that a central component of our current biodiversity crisis is due to poorly informed decision-making, and that science can play a key role in providing actionable knowledge to address the drivers of biodiversity loss. These experiences led me to work at the German Center for Integrative Biodiversity Research that emphasizes interdisciplinary research and works at the science-policy interface.
+I learned that a central component of our current biodiversity crisis is due to poorly informed decision-making, and that science can play a key role in providing actionable knowledge to address the drivers of biodiversity loss. These experiences led me to work at the German Centre for Integrative Biodiversity Research that emphasizes interdisciplinary research and works at the science-policy interface.
 
 In my free time, I play the piano, paint huge canvases and am currently building a boat.
 
