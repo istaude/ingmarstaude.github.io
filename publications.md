@@ -2,7 +2,10 @@
 layout: page
 title: Peer Reviewed Publications
 ---
-## 2012
+## 2021
+
+<insStaude, I.R.</ins>, Pereira, H., Daskalova, G.N., Bernhardt-Römermann, M., Diekmann, M., Pauli, H., Van Calster, H., Vellend, M., Bjorkman, A.D., Brunet, J., De Frenne, P., Hédl, R., Jandt, U., Lenoir, J., Myers-Smith, I.H., Verheyen, K., Wipf, S., Wulf, M., Andrews, C., Barančok, P., Barni, E., Benito-Alonso, J.-L., Bennie, J., Berki, I., Blüml, V., Chudomelová, M., Decocq, G., Dick, J., Dirnböck, T., Durak, T., Eriksson, O., Erschbamer, B., Graae, B.J., Heinken, T., Schei, F.H., Jaroszewicz, B., Kopecký, M., Kudernatsch, T., Macek, M., Malicki, M., Máliš, F., Michelsen, O., Naaf, T., Nagel, T.A., Newton, A., Nicklas, L., Oddi, L., Ortmann-Ajkai, A., Palaj, A., Petraglia, A., Petřík, P., Pielech, R., Porro, F., Pușcaș, M., Reczyńska, K., Rixen, C., Schmidt, W., Standovár, T., Steinbauer, K., Świerkosz, K., Teleki, B., Theurillat, J.-P., Turtureanu, P.D., Ursu, T.-M., Vanneste, T., Vergeer, P., Vild, O., Villar, L., Vittoz, P., Winkler, M., Baeten, L., 2021. Consistent replacement of small- by large-ranged plant species across habitats *EcoEvoRxiv*. January 25th. [link](https://doi.org/10.32942/osf.io/ujky2)
+
 
 <ins>Staude I.R.</ins>, Overbeck G.E., Fontana C.S., Bencke G.A., Silva T.W., Mimet A. and Pereira H.M. (2021) Specialist birds replace generalists in grassland remnants as land-use change intensifies. *Frontiers in Ecolgy and Evolution* 8:597542. . [link](https://doi.org/10.3389/fevo.2020.597542)
 
